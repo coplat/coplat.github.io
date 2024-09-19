@@ -1,3 +1,6 @@
+title: [COPLAT]
+description: [Chaya's Github Page]
+
 # Where things are
 source              : .
 destination         : ./_site
