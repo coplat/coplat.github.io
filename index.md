@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Chaya's Portfolio
+title:
 ---
 
 # Welcome to My Portfolio
 
-Hi, I'm Chaya! I've just started learning Rust, and this page showcases some of my tinkerings with it. 
+Hi, I've just started learning Rust, and this page showcases some of my tinkerings with it. 
 
 ## My Rust Projects
 
