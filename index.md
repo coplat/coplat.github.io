@@ -3,9 +3,7 @@ layout: default
 title:
 ---
 
-# Welcome to My Portfolio
-
-Hi, I've just started learning Rust, and this page showcases some of my tinkerings with it. 
+Hi, I'm new to Rust, and this page showcases some of my tinkerings with it. 
 
 ## My Rust Projects
 
