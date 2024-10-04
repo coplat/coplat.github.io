@@ -3,7 +3,7 @@ layout: default
 title:
 ---
 
-Hi, I'm new to Rust, and have been mostly learning through Rustlings (70/94 as I write this!), Cassidoo's interview questions, Youtube videos and a great mentor, Daniel! Here are a few of my recent tinkerings with it.
+Hi, I'm Cheyenne, a biology graduate from the University of Vienna who is new to Rust! I've been mostly learning through Rustlings, Cassidoo's interview questions, Youtube videos and a great mentor, Daniel! Here are a few of my very early tinkerings with it. 
 
 ### [RandomNumberGenerator](https://github.com/coplat/rng)
 A super simple program which generates a random number between two numbers of your choice. 
