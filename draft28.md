@@ -1,6 +1,6 @@
 
-## High Priority Implementation Items
-These items should be implemented first as they represent core functionality changes or critical security features: 
+## High Priority Implementation Items 
+These items should be implemented first as they represent core functionality changes or critical security features of Draft 28. 
 
 | Feature                                           | Priority Level | Justification                                                | Implementation Notes                                         |
 |---------------------------------------------------|----------------|--------------------------------------------------------------|--------------------------------------------------------------|
